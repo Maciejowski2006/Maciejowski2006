@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maciej Chmiel.
 - ✈ I'm living in Poland.
-- 📔 I'm 14 years old.
+- 📔 I'm 15 years old.
 - 👀 I’m interested in game development and website development.
 - 🌱 I’m currently learning HTML, CSS, JS, PHP, MySQL.
 
