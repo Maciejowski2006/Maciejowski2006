@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Maciej Chmiel.
 - ✈ I'm living in Poland.
 - 📔 I'm 15 years old.
-- 👀 I’m interested in game development and website development.
-- 🌱 I’m currently learning HTML, CSS, JS, PHP, MySQL.
+- 👀 I’m interested in game development and fullstack web app development.
+- 🌱 I’m currently learning Vue and React.
 
 - 📫 You can reach me by e-mail: maciejowski2006yt@gmail.com
 
