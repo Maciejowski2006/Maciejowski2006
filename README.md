@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maciej Chmiel.
 - ✈ I'm living in Poland.
-- 📔 I'm 17 years old.
+- 📔 I'm 18 years old.
 - 👀 I’m interested in game development and backend.
 - 🌱 I’m currently learning Unreal Engine.
 
